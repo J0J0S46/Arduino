@@ -1,3 +1,4 @@
-# Arduino Project
+#Joystick 2-axis
 
-Arduino Joystick for 2-axis
+Arduino project
+Joystick for 2-axis
