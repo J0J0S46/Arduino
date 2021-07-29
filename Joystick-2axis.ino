@@ -48,5 +48,6 @@ void loop() {
     noTone(buzzer);
     
   }
+  //time to loop the program & print the output(0.5 sec)
   delay(50);
 }
